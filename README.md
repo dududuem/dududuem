@@ -1,4 +1,114 @@
-## Hi there 👋
+## Hi there 
+
+<div align="center">
+  <a href="https://www.simonhe.me">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Simon%20He&fontAlign=50&fontAlignY=38&desc=Agent%20Harness%20%7C%20TUI%20%7C%20Electron%20%7C%20DX&descAlign=50&descAlignY=58&animation=fadeIn" alt="Simon He" />
+  </a>
+
+  <p>
+    <a href="https://www.simonhe.me"><img src="https://img.shields.io/badge/Website-simonhe.me-1f6feb?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
+    <a href="https://github.com/Simon-He95"><img src="https://img.shields.io/github/followers/Simon-He95?style=flat-square&label=Followers&logo=github" alt="GitHub followers" /></a>
+    <a href="https://twitter.com/simon_he1995"><img src="https://img.shields.io/badge/X-@simon__he1995-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://juejin.cn/user/4319334608151533"><img src="https://img.shields.io/badge/Juejin-掘金-1e80ff?style=flat-square" alt="Juejin" /></a>
+    <a href="https://discord.gg/x3MSjy5S5G"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  </p>
+
+  <h3>Agent &amp; frontend engineer cooking for DX</h3>
+  <p><em>Create for laziness, peace & love ❤️</em></p>
+
+  <p>
+    <code>Agent Harness</code> · <code>TUI</code> · <code>Electron</code> · <code>Vue</code> · <code>TypeScript</code> · <code>Streaming Markdown</code> · <code>DX</code>
+  </p>
+</div>
+
+---
+
+## 👋 About
+
+I’m **Simon He**, an engineer based in Shanghai. I build agent infrastructure and developer tooling for real workflows — from AI agent harnesses and terminal UIs to Electron desktop apps and AI-friendly streaming Markdown renderers.
+
+```ts
+const simon = {
+  location: 'Shanghai',
+  focus: ['Agent Harness', 'TUI', 'Electron', 'Streaming UI', 'DX'],
+  stack: ['TypeScript', 'Vue', 'Electron', 'Node.js', 'Vite', 'UnoCSS'],
+  principle: 'Create for laziness, peace & love ❤️',
+}
+```
+
+<table>
+  <tr>
+    <td width="33%"><b>⚡ DX first</b><br /><sub>Build tools that make daily work faster and calmer.</sub></td>
+    <td width="33%"><b>🧰 Tooling driven</b><br /><sub>Ship small, composable tools for real workflows.</sub></td>
+    <td width="33%"><b>🌱 Open source</b><br /><sub>Build in public, learn from users, iterate quickly.</sub></td>
+  </tr>
+</table>
+
+---
+
+## ✨ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>markstream-vue</a></h3>
+      <p>A Vue 3 renderer built for AI-powered streaming Markdown: progressive Mermaid, Monaco/Shiki code blocks, KaTeX, virtual rendering, and real-time updates without jitter.</p>
+      <p>
+        <a href="https://www.npmjs.com/package/markstream-vue"><img src="https://img.shields.io/npm/v/markstream-vue?style=flat-square&logo=npm" alt="npm" /></a>
+      </p>
+      <p><code>Vue 3</code> <code>AI UI</code> <code>Markdown</code> <code>Mermaid</code> <code>KaTeX</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <p>Universal component IntelliSense for multiple UI libraries. It provides smart completion for props, events, slots, types, and instance methods.</p>
+      <p>
+        <a href="https://marketplace.visualstudio.com/items?itemName=simonhe.common-intellisense"><img src="https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?style=flat-square&logo=visualstudiocode" alt="VS Code Marketplace" /></a>
+      </p>
+      <p><code>VS Code</code> <code>IntelliSense</code> <code>UI Libraries</code> <code>DX</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>Convert traditional CSS into UnoCSS utilities. Useful for migrating copied styles, design drafts, and legacy CSS snippets into atomic CSS workflows.</p>
+      </p>
+      <p><code>UnoCSS</code> <code>CSS Transform</code> <code>Atomic CSS</code> <code>Migration</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <p>UnoCSS tools for VS Code. Hover CSS hints, shortcut conversion, uno-magic syntax expansion, and faster atomic CSS authoring.</p>
+      <p>
+      </p>
+      <p><code>UnoCSS</code> <code>VS Code</code> <code>Productivity</code> <code>Tooling</code></p>
+    </td>
+  </tr>
+</table>
+
+### More Open Source
+
+| Project | What it does |
+| --- | --- |
+
+---
+
+## 🧩 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,nodejs,pnpm,vscode,tailwind,electron,html,css,githubactions,md&perline=12" alt="Tech stack" />
+</div>
+
+---
+
+
+---
+
+## ☕ Support
+
+If my projects help your workflow, a star, issue, PR, feedback, or sponsorship means a lot.
+
+<div align="center">
+  <a href="https://github.com/Simon-He95/sponsor"><img src="https://img.shields.io/badge/Sponsor-30363d?style=for-the-badge&logo=github-sponsors&logoColor=EA4AAA" alt="Sponsor" /></a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=Simon-He95&style=flat-square&color=1f6feb" alt="Profile views" />
+</div>
+
 
 <!--
 **dududuem/dududuem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
